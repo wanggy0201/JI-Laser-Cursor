@@ -1,0 +1,9 @@
+FocusTable=zeros(2,4);
+FocusTable(1,1)=c(5);
+FocusTable(2,1)=c(1);
+FocusTable(1,2)=c(6);
+FocusTable(2,2)=c(2);
+FocusTable(1,3)=c(7);
+FocusTable(2,3)=c(3);
+FocusTable(1,4)=c(8);
+FocusTable(2,4)=c(4);
